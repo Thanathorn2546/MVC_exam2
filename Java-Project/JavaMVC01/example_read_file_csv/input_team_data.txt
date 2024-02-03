@@ -1,0 +1,3 @@
+Team A,80
+Team B,90
+Team C,100
